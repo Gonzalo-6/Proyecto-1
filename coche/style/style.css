@@ -1,0 +1,48 @@
+*{
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aqua;
+    line-height: 2px;
+    padding: 30px;
+
+}
+
+
+header{
+    background-color: rgb(156, 228, 41);
+    color: black;
+    padding: 25px;
+    text-align:left;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+
+.Titulo{
+    color: red;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.Subtitulo{
+    background-color: brown;
+    font-style: italic;
+    font-size: large;
+    color: black;
+    margin-bottom: 30px;
+
+
+}
+
+.Portada{
+    border-radius: 20px;
+    width: 10px;
+    height: auto;
+    image-rendering: ;
+
+}
