@@ -214,3 +214,17 @@ form label {
     color: white;
 }
 
+/*Responsive*/
+@media (max-width:768 px) {
+    #Porfolio{
+        flex-direction: column;
+        text-align: center;
+    }
+    #Porfolio .texto, #Porfolio img {
+        width: 90%;
+    }
+    #Porfolio img {
+        max-height: 300px;
+    
+    }
+}
