@@ -45,7 +45,7 @@ header {
     color: black;
     padding: 5px;
 
-.portada {
+.Portada {
     flex: 1;
     display: flex;
     justify-content: center;
@@ -215,7 +215,7 @@ form label {
 }
 
 /*Responsive*/
-@media (max-width:768 px) {
+@media (max-width:768px){
     #Porfolio{
         flex-direction: column;
         text-align: center;
